@@ -1,0 +1,1 @@
+Queue<Integer> q =new LinkedList<>() ;
